@@ -1,1 +1,1 @@
-# PicGo_imgBad
+# PicGo_imgBed
